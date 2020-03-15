@@ -1,0 +1,26 @@
+body{
+	background: #a1a1a1;
+	text-align: left;
+
+}
+header{
+	margin-top: 70px;
+}
+
+h1{
+	font-family: cursive;
+}
+
+img{
+	margin-bottom: 30px;
+}
+
+.imag_pad {
+	margin-bottom: 20px;	
+	width: 25px;
+}
+
+footer{
+	font-size: 10px;
+	font-family: fantasy;
+}
